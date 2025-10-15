@@ -1,5 +1,3 @@
-# daniel.github.io
-Daniel Goncalves
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
